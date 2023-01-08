@@ -1,0 +1,12 @@
+.move{
+    height: 0px;
+    transition: all 1500ms;
+    overflow: hidden;
+
+}
+.move:hover{
+    transition: all 1500ms;
+   
+    height: 900px;
+}
+

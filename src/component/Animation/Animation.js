@@ -27,7 +27,7 @@ const Animation = () => {
             <div className="flex justify-center items-center">
               <div className="animate-spin spinn relative w-40 h-40 m-24">
                 <div className="absolute -top-10 -left-10">
-                  <img src={prof} className="w-12" alt="" />
+                  <img src={prof} className="w-16" alt="" />
                 </div>
               </div>
             </div>
